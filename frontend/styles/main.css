@@ -1,0 +1,54 @@
+body {
+  background-color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #3685BA;
+  font-size: 24px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: #3685BA;
+  font-weight: bold;
+}
+
+.btn-login {
+  background-color: #3685BA;
+  color: #fff;
+  padding: 20px 40px 10px 40px;
+}
+
+.section-header {
+  margin-top: 80px;
+}
+
+.section-header h2 {
+  margin-top: 80px;
+  margin-left: -200px;
+  font-size: 38px;
+  color: #260038;
+}
+
+.section-header p {
+  margin-left: -200px;
+  background-color: #EF7A43;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  padding-right: -50px;
+}
+
+.section-header .btn-header {
+  margin-left: -200px;
+  border-radius: 100px;
+  padding: 10px 20px 10px 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.section-header img {
+  width: 500px;
+  height: 413px;
+}
+/*# sourceMappingURL=main.css.map */
