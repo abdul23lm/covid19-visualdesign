@@ -106,6 +106,8 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
   color: #57A0D2;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
 }
 
 .navbar-light .navbar-nav .nav-link.active {

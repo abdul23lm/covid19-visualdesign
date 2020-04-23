@@ -89,6 +89,7 @@ body {
 /*--------------------------------------------------------------
 # Navbar
 --------------------------------------------------------------*/
+
 .btn-navbar-right {
   margin-top: -10px !important;
   margin-bottom: -8px !important;
@@ -102,6 +103,7 @@ body {
   .navbar-nav {
     .nav-link {
       color: #57A0D2;
+      transition: all 0.4s;
 
       &.active {
         font-weight: bold;
